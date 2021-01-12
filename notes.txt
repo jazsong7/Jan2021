@@ -1,0 +1,15 @@
+https://www.kaggle.com/hhs/health-insurance
+https://www.kaggle.com/lingyoungloon/who-healthcare-systems
+https://www.kaggle.com/noriuk/us-education-datasets-unification-project
+https://www.kaggle.com/ammon1/education-gnp-and-unemploynment
+https://www.kaggle.com/shivamb/netflix-shows
+https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+https://www.kaggle.com/new-york-city/nyc-medicaid-coverage-for-children,-pregnant-women?select=medicaid-coverage-for-children-and-pregnant-women-income-levels.csv
+
+Zoom Meeting ID 821 460 4954
+Password FinProj21
+
+Evaluation Questions
+Using the assumption that the most lucrative genres are the most produced genres, which genre is is most lucrative? 
+Is there a director who released more work more often than other directors?
+Was there significantly more content released for adults than for children?
